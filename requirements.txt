@@ -3,3 +3,4 @@ python-dotenv
 chainlit
 openai
 litellm
+langchain-linkup
