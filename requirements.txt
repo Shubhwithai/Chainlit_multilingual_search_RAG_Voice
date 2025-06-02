@@ -4,3 +4,4 @@ chainlit
 openai
 litellm
 langchain-linkup
+langchain
