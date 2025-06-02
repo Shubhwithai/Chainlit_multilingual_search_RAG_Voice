@@ -2,3 +2,4 @@ audioop-lts
 python-dotenv
 chainlit
 openai
+litellm
