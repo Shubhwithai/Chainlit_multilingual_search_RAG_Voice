@@ -6,3 +6,4 @@ litellm
 langchain-linkup
 langchain
 langchain_openai
+langchain_community
